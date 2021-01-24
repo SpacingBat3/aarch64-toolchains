@@ -8,7 +8,7 @@ For building these toolchains, I used my own Raspberry Pi 4 SBC.
 
 ## Target platforms:
 - `x86_64` (64-bit) GNU/Linux distributions,
-- `x86_64` Windows operating systems (MinGW Toolchain),
+- `x86_64` (64-bit) Windows operating systems (MinGW Toolchain),
 - `i686` (32-bit) Windows operating systems (MinGW Toolchain).
 
 ## Updating:
@@ -25,7 +25,7 @@ The accepted topics examples for the issues are:
 * legal concerns,
 * documentation update requests.
 
-If you're looking for a place for talk about the toolchain usage, issues, other sources for toolchain builds etc, jump to the GitHub *discussions* tab that is available on my repository.
+If you're looking for a place for talk about the toolchain usage, issues with the current toolchain versions (that won't be fixed by me), other sources for toolchain builds etc, jump to the GitHub *discussions* tab that is available on my repository.
 
 ## Licensing:
 Each set of the binaries/libraries might be licensed under their own agreements. See the `usr/share/licenses` inside the toolchain root folders for their licenses.
